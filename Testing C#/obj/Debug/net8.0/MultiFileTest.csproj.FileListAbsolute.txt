@@ -1,0 +1,15 @@
+C:\Users\misco\AppData\Roaming\diploma-work\repos\github_1228744009\Testing C#\obj\Debug\net8.0\MultiFileTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misco\AppData\Roaming\diploma-work\repos\github_1228744009\Testing C#\obj\Debug\net8.0\MultiFileTest.AssemblyInfoInputs.cache
+C:\Users\misco\AppData\Roaming\diploma-work\repos\github_1228744009\Testing C#\obj\Debug\net8.0\MultiFileTest.AssemblyInfo.cs
+C:\Users\misco\AppData\Roaming\diploma-work\repos\github_1228744009\Testing C#\obj\Debug\net8.0\MultiFileTest.csproj.CoreCompileInputs.cache
+C:\Users\misco\AppData\Roaming\diploma-work\repos\github_1228744009\Testing C#\obj\Debug\net8.0\MultiFileTest.sourcelink.json
+C:\Users\misco\AppData\Roaming\diploma-work\repos\github_1228744009\Testing C#\bin\Debug\net8.0\MultiFileTest.exe
+C:\Users\misco\AppData\Roaming\diploma-work\repos\github_1228744009\Testing C#\bin\Debug\net8.0\MultiFileTest.deps.json
+C:\Users\misco\AppData\Roaming\diploma-work\repos\github_1228744009\Testing C#\bin\Debug\net8.0\MultiFileTest.runtimeconfig.json
+C:\Users\misco\AppData\Roaming\diploma-work\repos\github_1228744009\Testing C#\bin\Debug\net8.0\MultiFileTest.dll
+C:\Users\misco\AppData\Roaming\diploma-work\repos\github_1228744009\Testing C#\bin\Debug\net8.0\MultiFileTest.pdb
+C:\Users\misco\AppData\Roaming\diploma-work\repos\github_1228744009\Testing C#\obj\Debug\net8.0\MultiFileTest.dll
+C:\Users\misco\AppData\Roaming\diploma-work\repos\github_1228744009\Testing C#\obj\Debug\net8.0\refint\MultiFileTest.dll
+C:\Users\misco\AppData\Roaming\diploma-work\repos\github_1228744009\Testing C#\obj\Debug\net8.0\MultiFileTest.pdb
+C:\Users\misco\AppData\Roaming\diploma-work\repos\github_1228744009\Testing C#\obj\Debug\net8.0\MultiFileTest.genruntimeconfig.cache
+C:\Users\misco\AppData\Roaming\diploma-work\repos\github_1228744009\Testing C#\obj\Debug\net8.0\ref\MultiFileTest.dll
