@@ -4,8 +4,8 @@ class Hello {
     public static void Main() {
         Console.WriteLine("Hello from C# Cracker!");
         int sum = 0;
-        for (int i = 1; i <= 10; i++) sum += i;
-        Console.WriteLine($"Sum 1..10 equals to = {sum}");
+        for (int i = 1; i <= 11; i++) sum += i;
+        Console.WriteLine($"Sum 1..11 equals to = {sum}");
     }
 }
 
