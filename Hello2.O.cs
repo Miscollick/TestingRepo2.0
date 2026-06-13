@@ -11,3 +11,4 @@ class Hello {
 
 // Извикваме метода ръчно, за да го стартира скриптът ни:
 Hello.Main();
+// Testing again
